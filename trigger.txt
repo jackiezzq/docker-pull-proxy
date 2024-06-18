@@ -1,1 +1,5 @@
-alpine:20240606 registry.cn-hangzhou.aliyuncs.com/yaming116/alpine:20240606
+node:20-alpine registry.cn-shanghai.aliyuncs.com/sxzn-dev/node:20-alpine
+java:8 registry.cn-shanghai.aliyuncs.com/sxzn-dev/java:8
+python:3.10 registry.cn-shanghai.aliyuncs.com/sxzn-dev/python:3.10
+mysql:latest registry.cn-shanghai.aliyuncs.com/sxzn-dev/mysql:latest
+pytorch/pytorch:2.3.1-cuda12.1-cudnn8-devel registry.cn-shanghai.aliyuncs.com/sxzn-dev/pytorch:2.3.1-cuda12.1-cudnn8-devel
