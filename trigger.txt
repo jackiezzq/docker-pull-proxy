@@ -4,3 +4,4 @@ python:3.10 registry.cn-shanghai.aliyuncs.com/sxzn-dev/python:3.10
 mysql:lts registry.cn-shanghai.aliyuncs.com/sxzn-dev/mysql:lts
 redis:latest registry.cn-shanghai.aliyuncs.com/sxzn-dev/redis:latest
 eclipse-temurin:21-jdk-noble registry.cn-shanghai.aliyuncs.com/sxzn-dev/eclipse-temurin:21-jdk-noble
+chromadb/chroma:latest  registry.cn-shanghai.aliyuncs.com/sxzn-dev/chromadb/chroma:latest
