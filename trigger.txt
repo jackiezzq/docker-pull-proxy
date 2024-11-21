@@ -1,4 +1,4 @@
-node:20-bookworm  registry.cn-shanghai.aliyuncs.com/sxzn-dev/node:20-bookworm
+node:20-slim  registry.cn-shanghai.aliyuncs.com/sxzn-dev/node:20-slim
 node:20-alpine registry.cn-shanghai.aliyuncs.com/sxzn-dev/node:20-alpine
 eclipse-temurin:8-jdk-noble registry.cn-shanghai.aliyuncs.com/sxzn-dev/eclipse-temurin:8-jdk-noble
 python:3.10 registry.cn-shanghai.aliyuncs.com/sxzn-dev/python:3.10
